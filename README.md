@@ -1,4 +1,4 @@
-# 2DGame
+# 2DInteractiveGame
 An engaging 2D tile based game with procedurally generated worlds, interactive minigames, and a dynamic player adventure system.
 
 Please contact me for access to this project and the code as it cannot be public.
