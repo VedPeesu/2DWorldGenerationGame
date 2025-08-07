@@ -1,9 +1,9 @@
-# 2DWordGenerationGame
+# 2D Word Generation Game
 An engaging 2D tile based game with procedurally generated worlds, interactive minigames, and a dynamic player adventure system.
 
-Please contact me for access to this project and the code as it cannot be public.
+I created this project for my Data Structures & Algorithms course so it cannot be publicly shared. Please contact me directly if you'd like access to the code or a demo.
 
-#Features
+###Features
 - Seed-based random world generation where rooms, hallways with turns and intersections, and encounters are randomely placed to scale on the world.
 - A detailed UI with tiles representing floors, walls, rooms, hallways, coins, and other encounters.
 - Interactive minigames with different objectives that provide players with coins and a goal to complete all minigames to beat the game.
